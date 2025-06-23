@@ -8,4 +8,4 @@ Accepted at MICCAI 2025 [[MICCAI2025]]
 <img src="Figure/overview.png" alt="overview" width="100%"/>
 
 # Training Pipeline
-<img src="Figure/training_process.png" alt="train" width="100%"/>
+<img src="Figure/train_process.png" alt="train" width="100%"/>
